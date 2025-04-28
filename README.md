@@ -33,7 +33,7 @@ The script checks each file in the target folder, compares its extension against
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/automatic-folder-sorter.git
+   git clone https://github.com/ElliotVarey/Automatic-Folder-Sorter.git
    ```
 2. **Navigate into the project directory**:
    ```bash
